@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 
-Twitter @andreassebayg
-Instagram @andreassebayang
-
-[My Website](https://aspitsme.com/)
 
   
   Cheers!
